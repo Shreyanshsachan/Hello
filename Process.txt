@@ -5,6 +5,10 @@ Restful APIs
 
 
 
+Master Array:  Forwared Iteration, Backward Iteration, Two-pointers Technique, Sliding Window
+Stack: Process elements in reverse order / Track the most recent item
+
+
 
 
 
